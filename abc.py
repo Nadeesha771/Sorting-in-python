@@ -1,4 +1,4 @@
-#Bubble sort in python
+#Bubble sort in python for Avtivity 02
 def bubbleSort(nlist):
     for passnum in range(len(nlist)-1,0,-1):
         for i in range(passnum):
